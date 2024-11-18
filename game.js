@@ -933,7 +933,7 @@ for (var sfx in SFX) {
     }
   })();
 }
-SFX.muted = true;
+SFX.muted = false;
 
 Game = {
   score: 0,
